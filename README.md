@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @halbaqali01
-- 👀 I’m interested in Business & Data Analyst Work Experiences & Front End Development
+- 👀 I’m interested in Business Analyst & Data Analyst Roles & Full Stack Development
 - 💻 I've previous experience in developmental languages like Python, C++, SQL, HTML, CSS, & Java!
-- 🌱 I’m currently learning JavaScript, Azure Cloud Fundamentals, and SQL applications in Data Science. 
+- 💻 I recently gained experience in platforms like AWS & Figma -- all self taught!
+- 🌱 I’m currently learning JavaScript, and Azure Cloud Fundamentals. 
 - 💞️ I’m looking to collaborate on Web Developing & Management as well as Database Management
 - 📫 How to reach me - Twitter! @theoryofhuda
 
